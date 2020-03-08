@@ -2,19 +2,21 @@
 Homework #1
 
 
-I got rid of the unordered list
+got rid of the unordered list
 
-I changed the larger div's into a content section and a benefits secition
+changed the header section to the header tag
 
-I used multiple selectors instead of having repeated code for the content and benefits section
+changed the larger div's into a content section and a benefits secition
 
-I combined the image height in the float right and left classes
+used multiple selectors instead of having repeated code for the content and benefits section
 
-I added alt tags on the images
+combined the image height in the float right and left classes
 
-I took out some of the id's on the div's not sure if this was a good idea. If they are being called anywhere are they needed?
+added alt tags on the images
 
-I deleted some of the unneeded parts of the pathway for the images
+took out some of the id's on the div's not sure if this was a good idea. If they are being called anywhere are they needed?
+
+deleted some of the unneeded parts of the pathway for the images
 
 
 
